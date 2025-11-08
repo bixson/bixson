@@ -10,7 +10,7 @@
 <h4 align="center"><em>I’m an IT student developer focused on <strong>cybersecurity, automation, and full-stack development</strong>.</em></h4>
 
 <ul>
-  <li><em>At the <strong>Royal Danish Academy of Sciences and Letters</strong>, I maintain websites & databases, improve internal workflows, and support the digital infrastructure.</em></li>
+  <li><em>At <strong>The Royal Danish Academy of Sciences and Letters</strong>, I maintain websites & databases, improve internal workflows, and support the digital infrastructure.</em></li>
   <li><em>Before IT, I worked in <strong>technical operations</strong> for venues and tourism in Iceland — structured, hands-on, and reliable under pressure.</em></li>
 </ul>
 
