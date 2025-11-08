@@ -17,13 +17,6 @@ Before IT I worked in **technical operations** for venues and tourism in Iceland
 
 ---
 
-### ⚙️ Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,docker,linux,git" alt="Tech stack icons" />
-</p>
-
----
-
 ### 📊 Activity
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bixson&theme=transparent&hide_border=true" alt="GitHub streak" />
@@ -35,6 +28,13 @@ Before IT I worked in **technical operations** for venues and tourism in Iceland
 - 🧭 **RoadsAI** — [PRIVATE REPOSITORY] Real-time Icelandic road & weather data prototype using Icelandic APIs· repo: https://github.com/bixson/roadsAI (private project)
 - 🔐 **AronIngi** — [PRIVATE REPOSITORY] Interactive business portfolio for an Icelandic photographer · repo: (https://github.com/bixson/Aron-Ingi) (private until launch)
 - 🧰 **raya-staging** — [PRIVATE REPOSITORY] Working in private staging environments for sites: https.//www.royalacademy.dk && https://www.youngacademy.dk · repo: ([PRIVATE])
+
+---
+
+### ⚙️ Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,docker,linux,git" alt="Tech stack icons" />
+</p>
 
 ---
 
