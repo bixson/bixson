@@ -26,7 +26,6 @@ Before IT I worked in **technical operations** for venues and tourism in Iceland
 
 ### 📊 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bixson&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=bixson&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
