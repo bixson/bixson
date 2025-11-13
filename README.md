@@ -26,7 +26,14 @@
 
 ### ⚙️ Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,docker,linux,git,postman,idea,wordpress" alt="Tech stack icons" />
+
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,docker,linux,git,postman,idea,wordpress" />
+
+  <!-- SimpleIcons with matching style -->
+  <img src="https://cdn.simpleicons.org/openai/4A90E2" height="48" style="background:#1F2335;border-radius:12px;padding:6px;" />
+  <img src="https://cdn.simpleicons.org/cursor/5A5E6B" height="48" style="background:#1F2335;border-radius:12px;padding:6px;" />
+
 </p>
 
 ---
@@ -42,7 +49,10 @@
 
 ### 📊 Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bixson&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=bixson&theme=github-dark&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
