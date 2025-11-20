@@ -60,7 +60,7 @@
 ### 🌍 Connect
 <p align="center">
   <a href="https://linkedin.com/in/bugrider"><img src="https://img.shields.io/badge/LinkedIn-bugrider-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:contact@syntaxerror.is"><img src="https://img.shields.io/badge/Email-contact@syntaxerror.is-2A2A2A?style=for-the-badge" /></a>
+  <a href="mailto:void@syntaxerror.is"><img src="https://img.shields.io/badge/Email-void@syntaxerror.is-2A2A2A?style=for-the-badge" /></a>
 </p>
 
 <p align="center"><i>Build systems that don’t just work — build systems that last.</i></p>
