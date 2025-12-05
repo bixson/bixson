@@ -25,15 +25,23 @@
 ---
 
 ### ⚙️ Toolbox
+
+<!-- Main toolbox row -->
 <p align="center">
-
-  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,docker,linux,git,postman,idea,wordpress" />
+</p>
 
-  <!-- SimpleIcons with matching style -->
-  <img src="https://cdn.simpleicons.org/openai/4A90E2" height="48" style="background:#1F2335;border-radius:12px;padding:6px;" />
-  <img src="https://cdn.simpleicons.org/cursor/5A5E6B" height="48" style="background:#1F2335;border-radius:12px;padding:6px;" />
-
+<!-- AI tools row (centered + same styling) -->
+<p align="center">
+  <img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/logos/openai-wx0xqojo8lrv572wcvlcb.png/openai-twkvg10vdyltj9fklcgusg.png?_a=DATAg1fmZAA0"
+       height="48"
+       style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
+  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF"
+       height="48"
+       style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF"
+       height="48"
+       style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
 </p>
 
 ---
