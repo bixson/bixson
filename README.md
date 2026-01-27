@@ -49,7 +49,7 @@
 ### 🚀 Current Projects
 | Project | Status | Description |
 |:--|:--:|:--|
-| 🚧 **RoadsAI** | 🟢 [Public](https://keyra.syntaxerror.is) | SCHOOL-PROJECT: Real-time IS road & weather data prototype using IS+NO APIs · [repo](https://github.com/bixson/roadsAI) |
+| 🚧 **RoadsAI** | 🟡 [Public](https://keyra.syntaxerror.is) - server currently down for maintenance | SCHOOL-PROJECT: Real-time IS road & weather data prototype using IS+NO APIs · [repo](https://github.com/bixson/roadsAI) |
 | 📸 **AronIngi** | 🕵️‍♂️ [Private] | Interactive business portfolio for an Icelandic photographer · [repo](https://github.com/bixson/Aron-Ingi) - [insta](https://www.instagram.com/arongestsson/) |
 | 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</a> |
 
