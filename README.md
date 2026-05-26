@@ -47,11 +47,12 @@
 ---
 
 ### 🚀 Current Projects
-| Project | Status | Description |
-|:--|:--:|:--|
-| 🚧 **RoadsAI** | 🟡 [Public](https://keyra.syntaxerror.is) — maintenance | School project: real-time Icelandic road & weather data prototype stitching IS + NO public APIs · [repo](https://github.com/bixson/roadsAI) |
-| 🕸️ **osint-rag** | 🕵️‍♂️ [Public](https://osint.syntaxerror.is) | n8n-orchestrated RAG agent over the OSINT Framework directory — Neo4j backing combined vector + graph retrieval, exposed through a single AI agent · [repo] |
-| 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</a> |
+  | Project | Status | Description |
+  |:--|:--:|:--|
+| ⚓ **Hafnarvaktin** | 🟢 [Public](https://hafnarvaktin.syntaxerror.is) | One stack, three exams, plenty of sweat — a live Ísafjörður harbour-watch stitching ML (YOLO11m) + AI (MCP/n8n/Neo4j agent) + RN into one running system · [repo](https://github.com/bixson/Hafnarvaktin) |
+  | 🚧 **RoadsAI** | 🟡 [Public](https://keyra.syntaxerror.is) — maintenance | School project: real-time Icelandic road & weather data prototype stitching IS + NO public APIs · [repo](https://github.com/bixson/roadsAI) |
+  | 🕸️ **osint-rag** | 🕵️‍♂️ [Public](https://osint.syntaxerror.is) | n8n-orchestrated RAG agent over the OSINT Framework directory — Neo4j backing combined vector + graph retrieval, exposed through a single AI agent · [repo] |
+  | 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</a
 ---
 
 ### 📊 Activity
