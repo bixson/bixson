@@ -53,7 +53,7 @@
   | 🚧 **RoadsAI** | 🟡 [Public](https://keyra.syntaxerror.is) — maintenance | School project: real-time Icelandic road & weather data prototype stitching IS + NO public APIs · [repo](https://github.com/bixson/roadsAI) |
   | 🕸️ **osint-rag** | 🕵️‍♂️ [Public](https://osint.syntaxerror.is) | n8n-orchestrated RAG agent over the OSINT Framework directory — Neo4j backing combined vector + graph retrieval, exposed through a single AI agent · [repo] |
   | 🛡️ **beskyttelsesrum** | 🟢 [Public](https://beskyttelsesrum.syntaxerror.is) | 24-hour exam build — a public lookup over Denmark's civil-defence shelter register, Spring Boot + MySQL behind nginx on rootless Docker · [repo](https://github.com/bixson/Eksamen-beskyttelsesrum) |
-  | 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</
+  | 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</a>
   | 👨‍👩‍👧‍👦 **Family** | 🔴 [Private] | Underfunded, over-scoped, no documentation — two kids and a wife running in production with zero downtime tolerance · [no repo] |
 ---
 
