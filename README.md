@@ -26,10 +26,6 @@
 
 ### ⚙️ Toolbox
 
-<!-- Main toolbox row -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,php,opencv,docker,linux,bash,raspberrypi,cloudflare,git,github,githubactions,postman,idea,vscode,wordpress" />
-</p>
 
 <!-- AI tools row (centered + same styling) -->
 <p align="center">
@@ -48,6 +44,12 @@
   <img src="https://cdn.simpleicons.org/neo4j/FFFFFF"
        height="48"
        style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
+</p>
+
+
+<!-- Main toolbox row -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,php,opencv,docker,linux,bash,raspberrypi,cloudflare,git,github,githubactions,postman,idea,vscode,wordpress" />
 </p>
 
 ---
