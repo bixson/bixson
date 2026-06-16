@@ -28,7 +28,7 @@
 
 <!-- Main toolbox row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,docker,linux,git,postman,idea,wordpress" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,php,docker,linux,git,raspberrypi,cloudflare,postman,idea,wordpress" />
 </p>
 
 <!-- AI tools row (centered + same styling) -->
@@ -36,10 +36,16 @@
   <img src="https://assets.streamlinehq.com/image/private/w_34,h_34,ar_1/f_auto/v1/icons/logos/openai-wx0xqojo8lrv572wcvlcb.png/openai-twkvg10vdyltj9fklcgusg.png?_a=DATAg1fmZAA0"
        height="48"
        style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
-  <img src="https://cdn.simpleicons.org/anthropic/FFFFFF"
+  <img src="https://cdn.simpleicons.org/claude/FFFFFF"
        height="48"
        style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
   <img src="https://cdn.simpleicons.org/cursor/FFFFFF"
+       height="48"
+       style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
+  <img src="https://cdn.simpleicons.org/n8n/FFFFFF"
+       height="48"
+       style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
+  <img src="https://cdn.simpleicons.org/googlecolab/FFFFFF"
        height="48"
        style="background:#1F2335;border-radius:12px;padding:6px;margin:0 4px;" />
 </p>
