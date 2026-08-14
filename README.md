@@ -55,6 +55,8 @@
 ---
 
 ### 🚀 Current Projects
+> ⚠️ All live projects are temporarily down due to server maintenance.
+
   | Project | Status | Description |
   |:--|:--:|:--|
 | ⚓ **Hafnarvaktin** | 🟢 [Public](https://hafnarvaktin.syntaxerror.is) | One stack, three exams, plenty of sweat — a live Ísafjörður harbour-watch stitching ML (YOLO11m) + AI (MCP/n8n/Neo4j agent) + RN into one running system · [repo](https://github.com/bixson/Hafnarvaktin) |
