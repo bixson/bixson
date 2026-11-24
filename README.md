@@ -63,7 +63,7 @@
   |:--|:--:|:--|
 | ❄️ **Snowsense** | 💼 [Private] — client | Snowsense is a network of lightweight snow and sea sensors delivering real-time data, in use in Iceland and Norway.<br>I freelance across its stack, from pixels to data to AI |
   | 🌊 **snowsense-sea** | 🎓 [Private] — final project | My final exam project, built with Snowsense: a Spring Boot + PostgreSQL data system and REST API comparing sea-sensor measurements against ocean-model data |
-  | 🧰 **syntaxerror** | 💼 [Private] — client | <a href="https://www.syntaxerror.is">Check it out</a> |
+  | 🧰 **syntaxerror** | 🟢 [Public](https://www.syntaxerror.is) | <a href="https://www.syntaxerror.is">Check it out</a> |
 | ⚓ **Hafnarvaktin** | 🟢 [Public](https://hafnarvaktin.syntaxerror.is) | One stack, three exams, plenty of sweat — a live Ísafjörður harbour-watch stitching ML (YOLO11m) + AI (MCP/n8n/Neo4j agent) + RN into one running system · [repo](https://github.com/bixson/Hafnarvaktin) |
   | 🚧 **RoadsAI** | 🔴 [Public](https://keyra.syntaxerror.is) — offline | School project: real-time Icelandic road & weather data prototype stitching IS + NO public APIs · [repo](https://github.com/bixson/roadsAI) |
   | 🕸️ **osint-rag** | 🕵️‍♂️ [Public](https://osint.syntaxerror.is) | n8n-orchestrated RAG agent over the OSINT Framework directory — Neo4j backing combined vector + graph retrieval, exposed through a single AI agent |
