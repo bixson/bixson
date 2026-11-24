@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hi there, I’m Alexander Örn</h1>
 <h4 align="center">
   • Datamatiker Student at <a href="https://www.ek.dk">Copenhagen School of Design and Technology</a><br>
-  • IT Student Worker at <a href="https://www.royalacademy.dk">The Royal Danish Academy of Science and Letters</a>
+  • IT Student Worker at <a href="https://www.royalacademy.dk">The Royal Danish Academy of Science and Letters</a><br>
+  — Freelance developer at <a href="https://www.syntaxerror.is">syntaxerror.is</a> —
 </h4>
 
 ---
@@ -11,6 +12,7 @@
 
 <ul>
   <li><em>At <strong>The Royal Danish Academy of Sciences and Letters</strong>, I maintain websites & databases, improve internal workflows, and support the digital infrastructure.</em></li>
+  <li><em>As a <strong>freelancer</strong>, I build and ship client work — MCP servers and AI integrations, data APIs, and full-stack web apps — from first sketch to production.</em></li>
   <li><em>Before IT, I worked in <strong>technical operations</strong> for venues and tourism in Iceland — structured, hands-on, and reliable under pressure.</em></li>
 </ul>
 
@@ -19,8 +21,10 @@
 ### 🧩 Focus Areas
 - Cybersecurity & ethical hacking  
 - Automation & cloud environments  
-- Full-stack development (Java • Spring Boot • MySQL • HTML/CSS/JS)  
-- Self-hosted systems, IoT, and network efficiency
+- Full-stack development (Spring Boot • TypeScript • Next.js • PostgreSQL/MySQL)  
+- Sensor data, dashboards & data pipelines  
+- Self-hosted systems, IoT, and network efficiency  
+- Venturing into native iOS (Swift)
 
 ---
 
@@ -49,21 +53,22 @@
 
 <!-- Main toolbox row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,py,php,opencv,docker,linux,bash,raspberrypi,cloudflare,git,github,githubactions,postman,idea,vscode,wordpress" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,tailwind,html,css,postgres,mysql,supabase,graphql,py,php,swift,opencv,docker,linux,bash,raspberrypi,cloudflare,git,github,githubactions,postman,idea,vscode,wordpress&perline=15" />
 </p>
 
 ---
 
 ### 🚀 Current Projects
-> ⚠️ All live projects are temporarily down due to server maintenance.
-
   | Project | Status | Description |
   |:--|:--:|:--|
+| ❄️ **Snowsense** | 💼 [Private] — client | Snowsense is a network of lightweight snow and sea sensors delivering real-time data, in use in Iceland and Norway.<br>I freelance across its stack, from pixels to data to AI |
+  | 🌊 **snowsense-sea** | 🎓 [Private] — final project | My final exam project, built with Snowsense: a Spring Boot + PostgreSQL data system and REST API comparing sea-sensor measurements against ocean-model data |
+  | 🧰 **syntaxerror** | 💼 [Private] — client | <a href="https://www.syntaxerror.is">Check it out</a> |
 | ⚓ **Hafnarvaktin** | 🟢 [Public](https://hafnarvaktin.syntaxerror.is) | One stack, three exams, plenty of sweat — a live Ísafjörður harbour-watch stitching ML (YOLO11m) + AI (MCP/n8n/Neo4j agent) + RN into one running system · [repo](https://github.com/bixson/Hafnarvaktin) |
-  | 🚧 **RoadsAI** | 🟡 [Public](https://keyra.syntaxerror.is) — maintenance | School project: real-time Icelandic road & weather data prototype stitching IS + NO public APIs · [repo](https://github.com/bixson/roadsAI) |
-  | 🕸️ **osint-rag** | 🕵️‍♂️ [Public](https://osint.syntaxerror.is) | n8n-orchestrated RAG agent over the OSINT Framework directory — Neo4j backing combined vector + graph retrieval, exposed through a single AI agent · [repo] |
+  | 🚧 **RoadsAI** | 🔴 [Public](https://keyra.syntaxerror.is) — offline | School project: real-time Icelandic road & weather data prototype stitching IS + NO public APIs · [repo](https://github.com/bixson/roadsAI) |
+  | 🕸️ **osint-rag** | 🕵️‍♂️ [Public](https://osint.syntaxerror.is) | n8n-orchestrated RAG agent over the OSINT Framework directory — Neo4j backing combined vector + graph retrieval, exposed through a single AI agent |
   | 🛡️&nbsp;**beskyttelsesrum** | 🟢 [Public](https://beskyttelsesrum.syntaxerror.is) | 24-hour exam build — a public lookup over Denmark's civil-defence shelter register, Spring Boot + MySQL behind nginx on rootless Docker · [repo](https://github.com/bixson/Eksamen-beskyttelsesrum) |
-  | 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</a>
+  | 👑 **raya-staging** | 🕵️‍♂️ [Private] | Internal staging environments for <a href="https://www.royalacademy.dk">royalacademy.dk</a> & <a href="https://www.youngacademy.dk">youngacademy.dk</a> |
   | 👨‍👩‍👧‍👦 **Family** | 🔴 [Private] | Underfunded, over-scoped, no documentation — two kids and a wife running in production with zero downtime tolerance · [no repo] |
 ---
 
